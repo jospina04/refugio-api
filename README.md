@@ -4,7 +4,7 @@ API REST con Java, Spring Boot, JPA e Hibernate para gestionar las mascotas de u
 
 **Contexto seleccionado:** refugio de mascotas (continuación de la Actividad Colaborativa #1).
 
-## Integrantes
+## Integrante
 - Jimena Ospina Vergara
 
 ## Tecnologías
